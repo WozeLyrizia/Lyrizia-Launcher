@@ -8,7 +8,7 @@
     "java": {
         "oracle": "http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html"
     },
-    "rss": "https://forum.westeroscraft.com/forum/news.2/index.rss",
+    "rss": "http://lyrizia.atspace.cc/index.rss",
     "servers": [
         {
             "id": "Lyrizia-1.12.2",
@@ -61,17 +61,6 @@
                     ]
                 },
                 {
-                    "id": "com.sonicether:seus:11.0",
-                    "name": "Sonic Ether's Unbelievable Shaders",
-                    "type": "File",
-                    "artifact": {
-                        "size": 175159,
-                        "MD5": "bfa8c31d1da8131b59917bb2460205b1",
-                        "path": "shaderpacks/SEUS v11.0.zip",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.11.2/shaderpacks/SEUS.zip"
-                    }
-                },
-                {
                     "id": "options.txt",
                     "name": "Default Client Options",
                     "type": "File",
@@ -97,7 +86,7 @@
         {
             "id": "Lyrizia-1.12.2",
             "name": "Lyrizia Test Server",
-            "description": "Main testing server. Experimental changes are live here.",
+            "description": "Lyrizia Test Server.",
             "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-test.png",
             "version": "3.9.4",
             "address": "de16.falixnodes.net:25571",
@@ -475,15 +464,6 @@
                     ]
                 },
                 {
-                    "id": "com.sonicether:seus:11.0",
-                    "name": "Sonic Ether's Unbelievable Shaders",
-                    "type": "File",
-                    "artifact": {
-                        "size": 175159,
-                        "MD5": "bfa8c31d1da8131b59917bb2460205b1",
-                        "path": "shaderpacks/SEUS v11.0.zip",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.11.2/shaderpacks/SEUS.zip"
-                    }
                 },
                 {
                     "id": "options.txt",
@@ -509,7 +489,7 @@
             ]
         },
         {
-            "id": "WesterosCraftTest-1.12.2",
+            "id": "Lyrizia-1.12.2",
             "name": "WesterosCraft 1.12.2 Test Server",
             "description": "Tests for our version change to 1.12.2 are live here.",
             "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-test.png",
